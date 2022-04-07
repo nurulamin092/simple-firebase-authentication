@@ -9,6 +9,6 @@
  * 7.import getAuth from firebase/auth and create auth = getAuth(app)
  * 8. turn on google authentication
  * 9. create provider
- * 10.signInWithPopup(auth, provider)
+ * 10.signInWithPopup(auth, provider)   
 
 */
